@@ -1,5 +1,10 @@
+![](https://miro.medium.com/max/2160/0*5Cke19b5MtU2WL5i.png)
 
-# Instructions 
+# Django quiz web app
+
+A simple quiz web app based on Django and SqlLite 
+
+## Instructions 
 
 1) ### Installations
   Make sure to have python version 3 install on you pc or laptop. 
